@@ -48,9 +48,17 @@ The final analytical dataset contained **821,717 trips**.
 
 Casual riders took substantially longer trips on average than members. Casual riders also showed stronger weekend usage, while members were more concentrated on weekdays.
 
+![Weekday vs Weekend Usage](divvy_weekday_weekend.png)
+
+*Comparison of weekday and weekend trip shares for members and casual riders.*
+
 ### Time-of-Day Patterns
 
 Hourly analysis showed clear differences in usage throughout the day, including strong late-afternoon activity. Member behavior displayed patterns consistent with more regular weekday travel, while casual usage was distributed more broadly.
+
+![Divvy Trips by Hour](divvy_hourly_usage.png)
+
+*Hourly trip patterns for members and casual riders.*
 
 ### Bike Preferences
 
@@ -61,6 +69,10 @@ Classic bikes were the most frequently used bike type for both groups. Docked bi
 Trip-origin coordinates were analyzed to examine the geographic distribution of bike-share activity across Chicago.
 
 An interactive **Folium map** was created to compare member and casual trip origins and visualize spatial concentrations across the service area.
+
+![Spatial Distribution of Divvy Trip Origins](divvy_spatial_distribution.png)
+
+*Spatial distribution of sampled trip origins by rider type across the Chicago service area.*
 
 ## Repository Contents
 
