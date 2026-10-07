@@ -86,6 +86,12 @@ The full cleaned dataset is not included in this repository because of its size.
 
 `Azure Blob Storage → Azure Machine Learning → Python/Pandas → Data Cleaning → Exploratory Analysis → Feature Engineering → Visualization → Spatial Analysis → Analytical Outputs → GitHub`
 
+### Spatial Analysis Visualization
+
+![Spatial Distribution of Divvy Trip Origins](divvy_spatial_map.png)
+
+*Spatial distribution of Divvy trip origins across Chicago, showing geographic patterns in member and casual rider activity.*
+
 ## Author
 
 **Hanson Tawiah**  
